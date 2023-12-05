@@ -1,9 +1,9 @@
-# PfDA_Assignment_A.REID
+# PfDA_Assignment 1_A.REID_G00411003
 
 |Assignment Author Details|
 |---|
-|Author: Alec Reid|
-|Student No:G00411003|
+|**Author:** Alec Reid|
+|**Student No:** G00411003|
 
 
 |Assignment Requirments:|
