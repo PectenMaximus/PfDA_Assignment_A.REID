@@ -1,5 +1,11 @@
 # PfDA_Assignment_A.REID
 
+|Assignment Author Details|
+|---|
+|Author| Alec Reid|
+|Student No:| G00411003
+
+
 |Assignment Requirments:|
 |---|
 |1. Choose a real world phenomenon that can be measured and for which at least 100 data points across at least four different variables.|
