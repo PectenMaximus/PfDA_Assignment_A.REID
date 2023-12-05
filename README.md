@@ -2,8 +2,8 @@
 
 |Assignment Author Details|
 |---|
-|Author| Alec Reid|
-|Student No:| G00411003
+|Author|Alec Reid|
+|Student No:|G00411003|
 
 
 |Assignment Requirments:|
